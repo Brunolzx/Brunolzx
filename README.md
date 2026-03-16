@@ -35,9 +35,8 @@ API automation;
 Test frameworks and CI/CD integration;
 Playwright.
 
-Contact:
-
 Feel free to connect or check my work.
 
-GitHub: https://Brunolzx
+Contact:
+
 Email: brunofbarbosam@gmail.com
