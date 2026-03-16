@@ -1,10 +1,8 @@
 # Brunolzx
 
-QA Automation Portfolio
+Hello! My name is Bruno, I'm from Portugal and I'm a Quality Assurance Tester.
 
-Hello! I'm a QA enthusiast focused on Automation Testing and API Testing.
-
-I created this portfolio to showcase my hands-on experience with automated testing tools and test design.
+I created this portfolio to show my experience and projects with automated testing tools and test design.
 
 Skills:
 
@@ -18,57 +16,17 @@ Bug Identification.
 
 Tools I use:
 
+Visual Studio Code;
 Cypress;
-JavaScript;
-Postman;
-API Testing;
-Git GitHub;
-Node.js.
+Postman/Bruno.
+
 
 Automation Projects:
 
-Cypress E2E Testing – SauceDemo
-
-Automated end-to-end testing of an e-commerce website using Cypress.
-
-Test coverage includes:
-
-Login validation;
-Product filtering;
-Cart functionality;
-Checkout process.
-
 Repository:
-
 https://github.com/Brunolzx/cypress-saucedemo-tests
 
-Cypress E2E Testing – DemoBlaze
-
-Automation test for DemoBlaze e-commerce website.
-
-Test scenarios include:
-
-Authentication testing;
-Product cart operations;
-Checkout validation;
-User interaction forms.
-
-Repository:
-
 https://github.com/Brunolzx/cypress-demoblaze-tests
-
-API Testing – IPMA Weather API
-
-API testing project using Postman to validate weather data endpoints.
-
-Validations include:
-
-Status code verification;
-Response time validation;
-JSON response validation;
-Header validation.
-
-Repository:
 
 https://github.com/Brunolzx/postman-api-testing-ipma
 
