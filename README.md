@@ -1,6 +1,6 @@
 Hello! My name is Bruno, I'm from Portugal and I'm a Quality Assurance Tester.
 
-I created this portfolio to show my experience and projects with automated testing tools and test design.
+I created this portfolio to show my experience and projects with automated testing tools and Quality Assurance.
 
 Skills:
 
