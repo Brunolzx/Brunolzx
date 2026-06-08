@@ -31,11 +31,3 @@ I build reliable, maintainable automated test suites using modern frameworks and
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-moreira-87439a404)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0158ef56dcb81d8a32)
-
----
-
-## GitHub Stats
-
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunolzx&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunolzx&layout=compact&theme=default)
